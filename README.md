@@ -8,4 +8,6 @@ Git changes
 
 #Website Contents
 
+Here are introductory paragraph
+
 1. index.html
